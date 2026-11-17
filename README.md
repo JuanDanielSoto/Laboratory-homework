@@ -7,3 +7,4 @@ Requirements
 - streamlit
 - anthropic
 - python-dotenv
+- .env.example file with this ```ANTHROPIC_API_KEY=YOUR_APIKEY```
