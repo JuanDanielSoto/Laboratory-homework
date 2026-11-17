@@ -2,7 +2,7 @@
 
 ### Soto Montes Juan Daniel - 2422038
 
-Requirements
+Requirements:
 
 - streamlit
 - anthropic
